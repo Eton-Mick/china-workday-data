@@ -1,0 +1,11 @@
+# 忽略Python虚拟环境
+venv/
+
+# 忽略Python缓存文件
+__pycache__/
+
+# 忽略PyCharm配置文件
+.idea/
+
+# 忽略所有程序生成的CSV文件
+*.csv
