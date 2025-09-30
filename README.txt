@@ -14,7 +14,7 @@
 
 1.  确保已安装 Python 和 `pandas`, `chinesecalendar` 库。
     ```bash
-    pip install pandas chinese_calendar
+    pip install pandas chinesecalendar
     ```
 2.  修改脚本中的 `start_date` 和 `end_date` 变量来定义你需要的日期范围。
 3.  运行 Python 脚本。
